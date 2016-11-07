@@ -1,0 +1,23 @@
+{
+  "name": "alexa_fixtures",
+  "version": "1.0.0",
+  "description": "alexa voice for finding the next football match",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "alexa",
+    "node.js"
+  ],
+  "author": "olusola ak",
+  "license": "MIT",
+  "dependencies": {
+    "alexa-app": "^2.3.4",
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "lodash": "^4.16.6",
+    "node-fetch": "^1.6.3",
+    "request": "^2.77.0"
+  }
+}
